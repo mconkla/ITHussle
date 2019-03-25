@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6bae06762a9f00c45bc25c49dfe6d48f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameMenue: {fileID: 1450861393079816184, guid: 3fb62f81a5fecca4e83831e681582f4d,
+      type: 3}
+  - GameOverMenu: {instanceID: 0}
+  - AudioManager: {instanceID: 0}
+  - LevelComplete: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
